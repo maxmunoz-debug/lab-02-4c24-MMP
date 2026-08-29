@@ -3,3 +3,6 @@ Laboratorio de Control de Versiones
 
 ## Getting Started
 Instrucciones para empezar el proyecto
+
+### Cambios del Sprint 1
+- Trabajo completado en la nueva rama.
