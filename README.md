@@ -6,3 +6,5 @@ Instrucciones para empezar el proyecto
 
 ### Cambios del Sprint 1
 - Trabajo completado en la nueva rama.
+
+- Aprobado y revisado por el responsable.
